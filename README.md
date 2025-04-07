@@ -42,7 +42,7 @@ terraform apply
 
 ### 📁 Estructura del proyecto
 
-```bash
+```
 
 terraform-vpc-aws/
 ├── main.tf         # Define recursos principales: VPC, subnets, EC2, IGW
