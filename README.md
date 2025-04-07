@@ -49,7 +49,7 @@ terraform-vpc-aws/
 ├── outputs.tf      # Salidas útiles como IP pública e IDs
 ├── .gitignore      # Archivos ignorados por Git (tfstate, .pem, etc.)
 └── README.md       # Documentación del proyecto
-
+```
 
 👩‍💻 Autora
 Proyecto realizado por Priscila Flores como parte de su portafolio DevOps.
