@@ -37,5 +37,5 @@ variable "name_prefix" {
 variable "key_pair_name" {
   description = "Nombre del key pair existente en AWS para conectarse por SSH"
   type        = string
-  default     = "priscila-key"  # ← Reemplaza esto por el nombre real de tu key pair
+  default     = "tu-key-pair"  # ← Reemplaza esto por el nombre real de tu key pair
 }

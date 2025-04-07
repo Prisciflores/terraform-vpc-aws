@@ -79,7 +79,7 @@ resource "aws_security_group" "ssh_access" {
     from_port   = 22
     to_port     = 22
     protocol    = "tcp"
-    cidr_blocks = ["186.67.243.215/32"] # Cambia esto por tu IP asignada por tu proveedo, ip pública real
+    cidr_blocks = ["tu_ip_real/32"] # Cambia esto por tu IP asignada por tu proveedo, ip pública real
   }
 
   egress {
