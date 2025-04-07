@@ -43,6 +43,7 @@ terraform apply
 ### 📁 Estructura del proyecto
 
 ```
+
 terraform-vpc-aws/
 ├── main.tf         # Define recursos principales: VPC, subnets, EC2, IGW
 ├── variables.tf    # Variables parametrizadas (CIDR, key pair, región, etc.)
