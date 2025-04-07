@@ -50,6 +50,7 @@ terraform-vpc-aws/
 ├── outputs.tf      # Salidas útiles como IP pública e IDs
 ├── .gitignore      # Archivos ignorados por Git (tfstate, .pem, etc.)
 └── README.md       # Documentación del proyecto
+
 ```
 
 👩‍💻 Autora
